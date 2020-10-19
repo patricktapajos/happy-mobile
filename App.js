@@ -8,8 +8,6 @@ import {
 
 import Routes from "./src/routes";
 
-import OrphanagesMap from "./src/pages/OrphanagesMap";
-
 export default function App() {
   const [fontsLoaded] = useFonts({
     Nunito_600SemiBold,
